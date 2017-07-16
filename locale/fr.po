@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Axinitium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-13 09:42+0200\n"
+"PO-Revision-Date: 2017-07-13 09:43+0200\n"
+"Last-Translator: Peppy <peppy@twang-factory.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: armor.lua
+msgid "Flying Boots"
+msgstr "Bottes de Sept Lieues"
+
+#: arrow.lua
+msgid "Axinitium Arrow"
+msgstr "Flèche Axinitium"
+
+#: arrow.lua
+msgid "Axinitium Bow"
+msgstr "Arc Axinitium"
